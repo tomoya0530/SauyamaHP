@@ -1,5 +1,4 @@
 +++
-author = "Hugo Authors"
 title = "延羽の湯"
 date = "2023-01-08"
 description = "延羽の湯"
