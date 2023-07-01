@@ -4,5 +4,5 @@
   url: ""
 # - item: Category
 #   url: categories
-# - item: Tag
-#   url: tags
+- item: Tag
+  url: tags
