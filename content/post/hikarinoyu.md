@@ -1,9 +1,8 @@
 +++
-author = "Hugo Authors"
 title = "光の湯"
 date = "2023-02-09"
 description = "光の湯"
-tags = ["wakayma"]
+tags = ["wakayama"]
 image = "hikarinoyu.jpg"
 +++
 
